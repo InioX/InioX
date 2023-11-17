@@ -1,23 +1,31 @@
-<div align="center" style="inline-block"> 
+<div align="center" text-align="center" style="inline-block"> 
 
-# InioX / ini.
+![avatar](https://avatars.githubusercontent.com/u/81521595)
+
+# InioX / ini
+
+Electrical engineering student
+
+Passionate about Linux
+
+Can speak Czech, Slovak, English, Russian
 
 ### Languages and tools
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=black)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Script](https://img.shields.io/badge/Shell_Script-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Nix](https://img.shields.io/badge/Nix-ffffff?style=for-the-badge&logo=nixos&logoColor=black)
 
 ### Operating systems
 
-[![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-3ddc84?style=for-the-badge&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+[![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-ffffff?style=for-the-badge&logo=android&logoColor=black)](https://www.android.com/android-13/)
+![NixOS](https://img.shields.io/badge/NixOS-ffffff?style=for-the-badge&logo=nixos&logoColor=black)
 
 ### Latest Videos
 
@@ -29,16 +37,11 @@
 
 <h1></h1>
 
-<a>
-  <img alt="My Discord" align="center" width="25px" src="https://simpleicons.now.sh/discord/ffffff" />
-  <b>@i.am.ini</b>
-</a>
-•
-<a>
-  <img alt="My Discord" align="center" width="25px" src="https://simpleicons.now.sh/youtube/ffffff" />
-  <b>@i_am_ini</b>
-</a>
-</div>
+<img alt="My Discord" align="center" vertical-align="middle" width="25" src="https://simpleicons.now.sh/discord/ffffff" />
+<sub><b>i.am.ini</b></sub>
+&nbsp;
+<img alt="My Discord" align="center" vertical-align="middle" width="25" src="https://simpleicons.now.sh/youtube/ffffff" />
+<sub><b>@i_am_ini</b></sub>
 
 <!--
 **InioX/InioX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
