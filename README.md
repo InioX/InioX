@@ -1,8 +1,17 @@
-<div align="center" text-align="center" style="inline-block"> 
+<div align="center" text-align="center" style="inline-block">
 
 ![avatar](https://avatars.githubusercontent.com/u/81521595)
 
 # InioX / ini
+
+<h3 class="about-me">
+     <sub>
+          <img  src="https://github.com/InioX/InioX/assets/81521595/f42d0cce-ba58-4ccf-b008-7dc0434d88e4"
+           height="25"
+           width="25">
+     </sub>
+     About me
+</h3>
 
 Electrical engineering student
 
@@ -10,7 +19,14 @@ Passionate about Linux
 
 Can speak Czech, Slovak, English, Russian
 
-### Languages and tools
+<h3 class="languages-and-tools">
+     <sub>
+          <img  src="https://github.com/InioX/InioX/assets/81521595/1fbe3355-94c6-4f86-a520-2dc06da9dddf"
+           height="25"
+           width="25">
+     </sub>
+     Languages and tools
+</h3>
 
 ![Rust](https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,12 +38,27 @@ Can speak Czech, Slovak, English, Russian
 ![Script](https://img.shields.io/badge/Shell_Script-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Nix](https://img.shields.io/badge/Nix-ffffff?style=for-the-badge&logo=nixos&logoColor=black)
 
-### Operating systems
+
+<h3 class="operating-systems">
+     <sub>
+          <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
+           height="25"
+           width="25">
+     </sub>
+     Operating systems
+</h3>
 
 [![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-ffffff?style=for-the-badge&logo=android&logoColor=black)](https://www.android.com/android-13/)
 ![NixOS](https://img.shields.io/badge/NixOS-ffffff?style=for-the-badge&logo=nixos&logoColor=black)
 
-### Latest Videos
+<h3 class="latest-videos">
+     <sub>
+          <img  src="https://github.com/InioX/InioX/assets/81521595/8d6b265c-2d53-4dc8-9779-d99e43df65cd"
+           height="25"
+           width="25">
+     </sub>
+     Latest Videos
+</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Matugen - Hyprland Material You Theming](https://ytcards.demolab.com/?id=lBlEEiwQzYA&title=Matugen+-+Hyprland+Material+You+Theming&lang=en&timestamp=1679176162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Matugen - Hyprland Material You Theming")](https://www.youtube.com/watch?v=lBlEEiwQzYA)
