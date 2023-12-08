@@ -61,7 +61,9 @@ Can speak Czech, Slovak, English, Russian
 </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Matugen - Hyprland Material You Theming](https://ytcards.demolab.com/?id=lBlEEiwQzYA&title=Matugen+-+Hyprland+Material+You+Theming&lang=en&timestamp=1679176162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Matugen - Hyprland Material You Theming")](https://www.youtube.com/watch?v=lBlEEiwQzYA)
+[![Waybar Privacy Indicators](https://ytcards.demolab.com/?id=qG7ZotvRN4s&title=Waybar+Privacy+Indicators&lang=en&timestamp=1677173964&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Waybar Privacy Indicators")](https://www.youtube.com/watch?v=qG7ZotvRN4s)
+[![Hyprland rice](https://ytcards.demolab.com/?id=Vn5i_06Gde8&title=Hyprland+rice&lang=en&timestamp=1668875311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hyprland rice")](https://www.youtube.com/watch?v=Vn5i_06Gde8)
 <!-- END YOUTUBE-CARDS -->
 
 <h1></h1>
