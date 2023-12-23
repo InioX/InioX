@@ -1,6 +1,6 @@
 <div align="center" text-align="center" style="inline-block">
 
-![avatar](https://avatars.githubusercontent.com/u/81521595)
+<img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81521595&shape=circle" height=200>
 
 # InioX / ini
 
