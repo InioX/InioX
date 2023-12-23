@@ -19,6 +19,8 @@ Passionate about Linux
 
 Can speak Czech, Slovak, English, Russian
 
+I **REALLY** like Material Design 3
+
 <h3 class="languages-and-tools">
      <sub>
           <img  src="https://github.com/InioX/InioX/assets/81521595/1fbe3355-94c6-4f86-a520-2dc06da9dddf"
