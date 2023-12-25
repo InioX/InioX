@@ -53,6 +53,15 @@ I **REALLY** like Material Design 3
 [![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-f6b6b9?style=for-the-badge&logo=android&logoColor=4d2427)](https://www.android.com/android-13/)
 ![NixOS](https://img.shields.io/badge/NixOS-f6b6b9?style=for-the-badge&logo=nixos&logoColor=4d2427)
 
+<h3 class="latest-videos">
+     <sub>
+          <img  src="https://github.com/InioX/InioX/assets/81521595/8d6b265c-2d53-4dc8-9779-d99e43df65cd"
+           height="25"
+           width="25">
+     </sub>
+     Latest Videos
+</h3>
+
 <h1></h1>
 
 ![](https://img.shields.io/badge/Discord-@i.am.ini-161313?style=for-the-badge&logo=discord&logoColor=4d2427&labelColor=f6b6b9)
