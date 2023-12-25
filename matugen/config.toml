@@ -4,11 +4,3 @@ set_wallpaper = false
 [templates.readme]
 input_path = "matugen/README.md.template"
 output_path = "README.md"
-
-[templates.yt_cards_dark]
-input_path = "matugen/theme_context_dark"
-output_path = "theme_context_dark"
-
-[templates.yt_cards_light]
-input_path = "matugen/theme_context_light"
-output_path = "theme_context_light"

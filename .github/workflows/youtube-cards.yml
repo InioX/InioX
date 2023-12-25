@@ -35,21 +35,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-
-      - uses: pCYSl5EDgo/cat@master
-        id: theme_context_light
-        with:
-          path: theme_context_light
-          trim: true
-
-      - uses: pCYSl5EDgo/cat@master
-        id: theme_context_dark
-        with:
-          path: theme_context_dark
-          trim: true
-
-      - name: Generate youtube cards
-        uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          theme_context_dark: ${{ steps.theme_context_dark.outputs.text }}
-          channel_id: UC4_9kAaJfJngiGmQXFGMkng
