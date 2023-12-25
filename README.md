@@ -6,9 +6,9 @@
 
 <h3 class="about-me">
      <sub>
-          <img  src="https://github.com/InioX/InioX/assets/81521595/f42d0cce-ba58-4ccf-b008-7dc0434d88e4"
+          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/f42d0cce-ba58-4ccf-b008-7dc0434d88e4"
            height="25"
-           width="25">
+           width="25"> -->
      </sub>
      About me
 </h3>
@@ -23,9 +23,9 @@ I **REALLY** like Material Design 3
 
 <h3 class="languages-and-tools">
      <sub>
-          <img  src="https://github.com/InioX/InioX/assets/81521595/1fbe3355-94c6-4f86-a520-2dc06da9dddf"
+          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/1fbe3355-94c6-4f86-a520-2dc06da9dddf"
            height="25"
-           width="25">
+           width="25"> -->
      </sub>
      Languages and tools
 </h3>
@@ -43,9 +43,9 @@ I **REALLY** like Material Design 3
 
 <h3 class="operating-systems">
      <sub>
-          <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
+          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
            height="25"
-           width="25">
+           width="25"> -->
      </sub>
      Operating systems
 </h3>
@@ -53,10 +53,36 @@ I **REALLY** like Material Design 3
 [![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-f6b6b9?style=for-the-badge&logo=android&logoColor=4d2427)](https://www.android.com/android-13/)
 ![NixOS](https://img.shields.io/badge/NixOS-f6b6b9?style=for-the-badge&logo=nixos&logoColor=4d2427)
 
+<h3 class="other">
+     <sub>
+          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
+           height="25"
+           width="25"> -->
+     </sub>
+     Other
+</h3>
+
+<div>
+     <a href="https://github.com/InioX/matugen">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=matugen&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
+     </a>
+     <a href="https://github.com/InioX/dotfiles">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=dotfiles&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
+     </a>
+</div>
+<br>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=InioX&hide_rank=true&show_icons=true&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&hide_border=true&hide=contribs&hide_title=true" width=292 />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InioX&layout=compact&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&hide_border=true&hide_title=true" height=138/>
+</a>
+
 <h1></h1>
 
-![](https://img.shields.io/badge/Discord-@i.am.ini-161313?style=for-the-badge&logo=discord&logoColor=4d2427&labelColor=f6b6b9)
-![](https://img.shields.io/badge/Youtube-@i__am__ini-161313?style=for-the-badge&logo=youtube&logoColor=4d2427&labelColor=f6b6b9)
+![](https://img.shields.io/badge/Discord-@i.am.ini-3c3838?style=for-the-badge&logo=discord&logoColor=4d2427&labelColor=f6b6b9)
+![](https://img.shields.io/badge/Email-ini@cumallover.me-3c3838?style=for-the-badge&logo=gmail&logoColor=4d2427&labelColor=f6b6b9)
+![](https://img.shields.io/badge/Youtube-@i__am__ini-3c3838?style=for-the-badge&logo=youtube&logoColor=4d2427&labelColor=f6b6b9)
 
 <!--
 **InioX/InioX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
