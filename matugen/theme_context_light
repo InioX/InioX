@@ -1,0 +1,1 @@
+theme_context_light: '{ "background_color": "{{colors.surface_bright.light.hex_stripped}}", "title_color": "colors.on_surface.light.hex_stripped", "stats_color": "{{colors.on_surface_variant.light.hex_stripped}}" }'

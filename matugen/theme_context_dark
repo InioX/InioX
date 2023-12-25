@@ -1,0 +1,1 @@
+theme_context_dark: '{ "background_color": "{{colors.surface_bright.dark.hex_stripped}}", "title_color": "{{colors.on_surface.dark.hex_stripped}}", "stats_color": "{{colors.on_surface_variant.dark.hex_stripped}}" }
