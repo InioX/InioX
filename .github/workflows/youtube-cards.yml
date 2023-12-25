@@ -1,4 +1,4 @@
-name: GitHub Readme YouTube Cards
+name: Matugen and GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
@@ -30,8 +30,11 @@ jobs:
           default_author: github_actions
           message: 'docs(readme): run matugen'
 
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
 
       - uses: pCYSl5EDgo/cat@master
         id: theme_context_light
