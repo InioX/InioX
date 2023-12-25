@@ -51,6 +51,5 @@ jobs:
       - name: Generate youtube cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          theme_context_light: ${{ steps.theme_context_light.outputs.text }}
           theme_context_dark: ${{ steps.theme_context_dark.outputs.text }}
           channel_id: UC4_9kAaJfJngiGmQXFGMkng
