@@ -2,7 +2,9 @@
 
 <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81521595&shape=circle" height=200>
 
-# InioX / ini
+<img src="https://github.com/InioX/InioX/assets/81521595/59d1f678-fdc0-427f-a2de-d6a1a90c670a" width=350>
+
+![footer](https://github.com/InioX/InioX/assets/81521595/7bd4b198-6031-4425-98a1-d4666cbb512c)
 
 <h3 class="about-me">
      <sub>
@@ -78,7 +80,7 @@ I **REALLY** like Material Design 3
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InioX&layout=compact&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&hide_border=true&hide_title=true" height=138/>
 </a>
 
-<h1></h1>
+![footer](https://github.com/InioX/InioX/assets/81521595/7bd4b198-6031-4425-98a1-d4666cbb512c)
 
 ![](https://img.shields.io/badge/Discord-@i.am.ini-3c3838?style=for-the-badge&logo=discord&logoColor=4d2427&labelColor=f6b6b9)
 ![](https://img.shields.io/badge/Email-ini@cumallover.me-3c3838?style=for-the-badge&logo=gmail&logoColor=4d2427&labelColor=f6b6b9)
