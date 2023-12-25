@@ -2,6 +2,8 @@
 
 <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81521595&shape=circle" height=200>
 
+<br>
+
 <img src="https://github.com/InioX/InioX/assets/81521595/59d1f678-fdc0-427f-a2de-d6a1a90c670a" width=350>
 
 ![footer](https://github.com/InioX/InioX/assets/81521595/7bd4b198-6031-4425-98a1-d4666cbb512c)
