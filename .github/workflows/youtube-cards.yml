@@ -11,8 +11,43 @@ jobs:
     # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Checkout repo
+        uses: actions/checkout@v4
+    
+      - name: Install matugen from crates.io
+        uses: baptiste0928/cargo-install@v2
         with:
+          crate: matugen
+          version: "^1.2.1"  # You can specify any semver range
+      
+      - name: Run matugen command
+        run: matugen web-image "https://avatars.githubusercontent.com/u/81521595" -c matugen/config.toml -v
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'docs(readme): run matugen'
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - uses: pCYSl5EDgo/cat@master
+        id: theme_context_light
+        with:
+          path: theme_context_light
+          trim: true
+
+      - uses: pCYSl5EDgo/cat@master
+        id: theme_context_dark
+        with:
+          path: theme_context_dark
+          trim: true
+
+      - name: Generate youtube cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          theme_context_light: ${{ steps.theme_context_light.outputs.text }}
+          theme_context_dark: ${{ steps.theme_context_dark.outputs.text }}
           channel_id: UC4_9kAaJfJngiGmQXFGMkng
