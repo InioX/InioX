@@ -1,1 +1,1 @@
-theme_context_light: '{ "background_color": "fff8f7", "title_color": "colors.on_surface.light.hex_stripped", "stats_color": "4d4545" }'
+{ "background_color": "fff8f7", "title_color": "1e1b1b", "stats_color": "4d4545" }
