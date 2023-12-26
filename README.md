@@ -10,9 +10,9 @@
 
 <h3 class="about-me">
      <sub>
-          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/f42d0cce-ba58-4ccf-b008-7dc0434d88e4"
-           height="25"
-           width="25"> -->
+          <img  src="https://github.com/InioX/InioX/assets/81521595/f42d0cce-ba58-4ccf-b008-7dc0434d88e4"
+           height="50"
+           width="50"><br>
      </sub>
      About me
 </h3>
@@ -27,9 +27,9 @@ I **REALLY** like Material Design 3
 
 <h3 class="languages-and-tools">
      <sub>
-          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/1fbe3355-94c6-4f86-a520-2dc06da9dddf"
-           height="25"
-           width="25"> -->
+          <img  src="https://github.com/InioX/InioX/assets/81521595/1fbe3355-94c6-4f86-a520-2dc06da9dddf"
+          height="50"
+          width="50"><br>
      </sub>
      Languages and tools
 </h3>
@@ -47,9 +47,9 @@ I **REALLY** like Material Design 3
 
 <h3 class="operating-systems">
      <sub>
-          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
-           height="25"
-           width="25"> -->
+          <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
+           height="50"
+           width="50"><br>
      </sub>
      Operating systems
 </h3>
@@ -59,9 +59,9 @@ I **REALLY** like Material Design 3
 
 <h3 class="other">
      <sub>
-          <!-- <img  src="https://github.com/InioX/InioX/assets/81521595/f6012468-724d-4c11-b1ea-3084b53062b3"
-           height="25"
-           width="25"> -->
+          <img  src="https://github.com/InioX/InioX/assets/81521595/848c7c1c-3e1b-48cf-babe-9ddd42ebd6e7"
+           height="50"
+           width="50"><br>
      </sub>
      Other
 </h3>
