@@ -57,13 +57,13 @@ I **REALLY** like Material Design 3
 [![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-f6b6b9?style=for-the-badge&logo=android&logoColor=4d2427)](https://www.android.com/android-13/)
 ![NixOS](https://img.shields.io/badge/NixOS-f6b6b9?style=for-the-badge&logo=nixos&logoColor=4d2427)
 
-<h3 class="other">
+<h3 class="repositories">
      <sub>
-          <img  src="https://github.com/InioX/InioX/assets/81521595/848c7c1c-3e1b-48cf-babe-9ddd42ebd6e7"
+          <img  src="https://github.com/InioX/InioX/assets/81521595/c3a43ca1-6235-4137-9856-cdd41a63a9ad"
            height="50"
            width="50"><br>
      </sub>
-     Other
+     Repositories
 </h3>
 
 <div>
@@ -74,13 +74,6 @@ I **REALLY** like Material Design 3
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=dotfiles&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
      </a>
 </div>
-<br>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=InioX&hide_rank=true&show_icons=true&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&hide_border=true&hide=contribs&hide_title=true" width=292 />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InioX&layout=compact&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&hide_border=true&hide_title=true" height=138/>
-</a>
 
 ![footer](https://github.com/InioX/InioX/assets/81521595/7bd4b198-6031-4425-98a1-d4666cbb512c)
 
