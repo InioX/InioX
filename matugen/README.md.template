@@ -17,13 +17,9 @@
      About me
 </h3>
 
-Electrical engineering student
+Hi, my name is ini. I am an electrical engineering student from Czechia.
 
-Passionate about Linux
-
-Can speak Czech, Slovak, English, Russian
-
-I **REALLY** like Material Design 3
+I like Linux, programming, and tech in general. I also **REALLY** like Material Design 3.
 
 <h3 class="languages-and-tools">
      <sub>
@@ -33,6 +29,10 @@ I **REALLY** like Material Design 3
      </sub>
      Languages and tools
 </h3>
+
+<kbd>
+
+<br>
 
 ![Rust](https://img.shields.io/badge/Rust-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=rust&logoColor={{ colors.on_primary.default.hex_stripped }})
 ![JavaScript](https://img.shields.io/badge/JavaScript-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=javascript&logoColor={{ colors.on_primary.default.hex_stripped }})
@@ -44,6 +44,7 @@ I **REALLY** like Material Design 3
 ![Script](https://img.shields.io/badge/Shell_Script-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=gnu-bash&logoColor={{ colors.on_primary.default.hex_stripped }})
 ![Nix](https://img.shields.io/badge/Nix-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=nixos&logoColor={{ colors.on_primary.default.hex_stripped }})
 
+</kbd>
 
 <h3 class="operating-systems">
      <sub>
@@ -54,8 +55,15 @@ I **REALLY** like Material Design 3
      Operating systems
 </h3>
 
+<kbd>
+
+<br>
+
 [![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=android&logoColor={{ colors.on_primary.default.hex_stripped }})](https://www.android.com/android-13/)
 ![NixOS](https://img.shields.io/badge/NixOS-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=nixos&logoColor={{ colors.on_primary.default.hex_stripped }})
+![Windows](https://img.shields.io/badge/AtlasOS%20/%20Windows%2011%2023H2-{{ colors.primary.default.hex_stripped }}?style=for-the-badge&logo=windows&logoColor={{ colors.on_primary.default.hex_stripped }})
+
+</kbd>
 
 <h3 class="repositories">
      <sub>
