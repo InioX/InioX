@@ -17,13 +17,9 @@
      About me
 </h3>
 
-Electrical engineering student
+Hi, my name is ini. I am an electrical engineering student from Czechia.
 
-Passionate about Linux
-
-Can speak Czech, Slovak, English, Russian
-
-I **REALLY** like Material Design 3
+I like Linux, programming, and tech in general. I also **REALLY** like Material Design 3.
 
 <h3 class="languages-and-tools">
      <sub>
@@ -59,8 +55,15 @@ I **REALLY** like Material Design 3
      Operating systems
 </h3>
 
+<kbd>
+
+<br>
+
 [![Android 13](https://img.shields.io/badge/Android%2013%20/%20RisingOS%201.4%20Elysium-f6b6b9?style=for-the-badge&logo=android&logoColor=4d2427)](https://www.android.com/android-13/)
 ![NixOS](https://img.shields.io/badge/NixOS-f6b6b9?style=for-the-badge&logo=nixos&logoColor=4d2427)
+![Windows](https://img.shields.io/badge/AtlasOS%20/%20Windows%2011%2023H2-f6b6b9?style=for-the-badge&logo=windows&logoColor=4d2427)
+
+</kbd>
 
 <h3 class="repositories">
      <sub>
