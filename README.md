@@ -34,6 +34,10 @@ I **REALLY** like Material Design 3
      Languages and tools
 </h3>
 
+<kbd>
+
+<br>
+
 ![Rust](https://img.shields.io/badge/Rust-f6b6b9?style=for-the-badge&logo=rust&logoColor=4d2427)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f6b6b9?style=for-the-badge&logo=javascript&logoColor=4d2427)
 ![TypeScript](https://img.shields.io/badge/TypeScript-f6b6b9?style=for-the-badge&logo=typescript&logoColor=4d2427)
@@ -44,6 +48,7 @@ I **REALLY** like Material Design 3
 ![Script](https://img.shields.io/badge/Shell_Script-f6b6b9?style=for-the-badge&logo=gnu-bash&logoColor=4d2427)
 ![Nix](https://img.shields.io/badge/Nix-f6b6b9?style=for-the-badge&logo=nixos&logoColor=4d2427)
 
+</kbd>
 
 <h3 class="operating-systems">
      <sub>
