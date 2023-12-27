@@ -66,14 +66,24 @@ I **REALLY** like Material Design 3
      Repositories
 </h3>
 
-<div>
-     <a href="https://github.com/InioX/matugen">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=matugen&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
-     </a>
+<td>
+     <kbd>
+     <img src="https://github.com/InioX/InioX/assets/81521595/161901c6-eeda-4159-b4ac-c72cb8e270e3" height=170>
      <a href="https://github.com/InioX/dotfiles">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=dotfiles&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
+     <br><br>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=dotfiles&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
      </a>
-</div>
+     </kbd>
+</td>
+<td>
+     <kbd>
+     <img src="https://user-images.githubusercontent.com/81521595/236634805-15e68f9b-44a5-4efc-b275-0eb1f6a28bd9.gif" height=170>
+     <a href="https://github.com/InioX/matugen">
+     <br><br>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=InioX&repo=matugen&title_color=e9e1e0&icon_color=f6b6b9&text_color=d0c4c3&bg_color=3c3838&show_owner=true&hide_border=true" width=300/>
+     </a>
+     </kbd>
+</td>
 
 ![footer](https://github.com/InioX/InioX/assets/81521595/7bd4b198-6031-4425-98a1-d4666cbb512c)
 
