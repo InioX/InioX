@@ -19,7 +19,7 @@ jobs:
         uses: baptiste0928/cargo-install@v2
         with:
           crate: matugen
-          version: "^1.2.1"  # You can specify any semver range
+          version: "2.1.0"  # You can specify any semver range
       
       - name: Run matugen command
         run: matugen web-image "https://avatars.githubusercontent.com/u/81521595" -c matugen/config.toml -v
