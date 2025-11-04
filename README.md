@@ -6,6 +6,10 @@
 
 <img src="https://github.com/InioX/InioX/assets/81521595/59d1f678-fdc0-427f-a2de-d6a1a90c670a" width=350>
 
+<h2>
+     <a href="https://iniox.github.io">MY SITE</a>
+</h2>
+
 ![footer](https://github.com/InioX/InioX/assets/81521595/7bd4b198-6031-4425-98a1-d4666cbb512c)
 
 <h3 class="about-me">
