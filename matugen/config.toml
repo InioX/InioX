@@ -1,6 +1,0 @@
-[config]
-set_wallpaper = false
-
-[templates.readme]
-input_path = "matugen/README.md.template"
-output_path = "README.md"
