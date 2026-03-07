@@ -6,9 +6,11 @@
 
 <img src="https://github.com/InioX/InioX/assets/81521595/59d1f678-fdc0-427f-a2de-d6a1a90c670a" width=350>
 
-<h2>
+<h1>
      <a href="https://iniox.github.io">MY SITE</a>
-</h2>
+</h1>
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 <!--
 **InioX/InioX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
